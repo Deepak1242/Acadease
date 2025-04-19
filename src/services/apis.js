@@ -1,4 +1,4 @@
-const BASE_URL = "https://server-hlqzdoz8d-deepaks-projects-f09f8a29.vercel.app/api/v1"
+const BASE_URL = "https://acadease.onrender.com/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
